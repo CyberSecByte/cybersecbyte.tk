@@ -31,7 +31,7 @@ tag app
 							<path fill-rule="evenodd" clip-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8C0 11.54 2.29 14.53 5.47 15.59C5.87 15.66 6.02 15.42 6.02 15.21C6.02 15.02 6.01 14.39 6.01 13.72C4 14.09 3.48 13.23 3.32 12.78C3.23 12.55 2.84 11.84 2.5 11.65C2.22 11.5 1.82 11.13 2.49 11.12C3.12 11.11 3.57 11.7 3.72 11.94C4.44 13.15 5.59 12.81 6.05 12.6C6.12 12.08 6.33 11.73 6.56 11.53C4.78 11.33 2.92 10.64 2.92 7.58C2.92 6.71 3.23 5.99 3.74 5.43C3.66 5.23 3.38 4.41 3.82 3.31C3.82 3.31 4.49 3.1 6.02 4.13C6.66 3.95 7.34 3.86 8.02 3.86C8.7 3.86 9.38 3.95 10.02 4.13C11.55 3.09 12.22 3.31 12.22 3.31C12.66 4.41 12.38 5.23 12.3 5.43C12.81 5.99 13.12 6.7 13.12 7.58C13.12 10.65 11.25 11.33 9.47 11.53C9.76 11.78 10.01 12.26 10.01 13.01C10.01 14.08 10 14.94 10 15.21C10 15.42 10.15 15.67 10.55 15.59C13.71 14.53 16 11.53 16 8C16 3.58 12.42 0 8 0Z">
 						" GITHUB"
 
-					<a rel="noreferrer" target="_blank" href="https://t.me/cybersecbyte_xD">
+					<a rel="noreferrer" target="_blank" href="https://t.me/cybersecbyte">
 						<svg viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg">
 							<g transform="matrix(3.468208 0 0 3.468208 0 -.00001)">
 								<path d="M 4.2424765,30.909596 45.462593,13.92622 c 4.068938,-1.769103 17.867948,-7.4302295 17.867948,-7.4302295 0,0 6.368772,-2.4767415 5.838042,3.5382055 -0.176911,2.476742 -1.592193,11.14534 -3.007476,20.521579 l -4.42276,27.774897 c 0,0 -0.353821,4.068935 -3.361296,4.776575 -3.007476,0.707641 -7.960967,-2.476741 -8.84552,-3.184384 -0.707641,-0.530729 -13.268278,-8.491688 -17.867947,-12.383711 -1.238373,-1.061461 -2.653656,-3.184384 0.17691,-5.661125 6.368774,-5.838037 13.97592,-13.091354 18.57559,-17.691019 2.122923,-2.122921 4.245849,-7.076405 -4.59967,-1.06146 L 20.872052,39.932013 c 0,0 -2.830567,1.769103 -8.137878,0.176911 C 7.4268631,38.516732 1.2350002,36.393811 1.2350002,36.393811 c 0,0 -4.245849,-2.653653 3.0074763,-5.484215 z">
@@ -77,25 +77,35 @@ tag app
 				<article .block>
 					<h2 aria-label='Experience'> "MY PROJECTS AND CONTRIBUTIONS"
 					<section .projects>
-						<h3> 'UFOLINUX'
+						<h3> 'ZRAXYL LINUX'
 						<h4>
-							<img [d:inline size:1em] src="https://raw.githubusercontent.com/CyberSecByte/cybersecbyte.github.io/master/images/ufolinux.jpg">
-							<a[d:inline] target='_blank' href='https://ufolinux.tk'> ' Website |'
-							<a[d:inline] target='_blank' href='https://t.me/ufolinux'> ' Telegram Group |'
-							<a[d:inline] target='_blank' href='https://matrix.to/#/#ufolinux:matrix.org'> ' Matrix |'
-							<a[d:inline] target='_blank' href='https://discord.gg/y6zFg7DcjK'> ' Discord'
-						<p> "Ufolinux is a linux distro made from scratch (LFS) and currently in build state, you can get more info about it by visiting the project site"
+							<img [d:inline size:1em] src="https://raw.githubusercontent.com/CyberSecByte/cybersecbyte.github.io/master/images/zraxyl.jpg">
+							<a[d:inline] target='_blank' href='https://zraxyl.eu'> ' Website |'
+							<a[d:inline] target='_blank' href='https://docs.zraxyl.eu'> ' Docs |'
+							<a[d:inline] target='_blank' href='https://t.me/zraxyl_distro'> ' Telegram Group |'
+							<a[d:inline] target='_blank' href='https://discord.gg/sF7VWz9q'> ' Discord'
+						<br><br>
+						<h5> 'Overview'
+						<p> "Zraxyl is the evolution of my earlier Linux-from-scratch project, {<a[d:inline] href='https://ufolinux.tk' > <strong> "Ufo Linux"}, which I originally built as a hands-on experiment in control, performance, and full-stack customization. UFOlinux started as a {<a[d:inline] href='https://www.linuxfromscratch.org/lfs/' > <strong> "Linux From Scratch (LFS)"} system, giving me complete insight into the Linux boot process, kernel configuration, essential system libraries, and the foundations of a minimal, bootable base."
+						<br>
+						<p> "During this journey, I had the pleasure of collaborating with {<a[d:inline] href='https://t.me/hilledkinged' > <strong> "Martin Valba"} from Estonia, the creator of Evolinx (Evolutionary Linux)—another from-scratch Linux distribution with a strong vision for modularity and performance. We actively contributed to each others projects, sharing build scripts, optimizations, and ideas to push both distros forward."
+						<br>
+						<p> "Over time, our collaboration grew so extensive that it made sense to join forces, combining our efforts and knowledge into a more unified and refined system. From this synergy, Zraxyl Linux emerged—a lightweight, modular, and secure Linux distribution that builds on the lessons learned from UFOlinux and Evolinx."
+						<br>
+						<p> "Zraxyl integrates Bottle (rebranded version of Pacman) as its package manager, for which We wrote custom PKGBUILD files and manually compiled every package. We fine-tuned a custom Linux kernel, optimized build flags for stability and performance, and streamlined the entire system for minimalism and flexibility."
+						<br>
+						<p> "This process gave me deep, end-to-end knowledge of Linux internals—from the kernel to userland, bootstrapping minimal systems, understanding how package managers work, and solving low-level build and runtime issues."
+						<br><br>
+						<h5> 'Why Zraxyl Matters To Me?'
+						<p> "Zraxyl isn’t just a distro—it’s the result of a collaborative journey into the very heart of Linux. Starting from UFOlinux and Evolinx, it represents countless hours of learning, experimenting, compiling, and refining. Through this project, I gained practical, low-level expertise in Linux systems that goes far beyond using pre-built distributions—knowledge that deeply informs my approach to system design, optimization, and DevOps practices today."
+						<br>
+						<p> "And it’s still a long journey ahead. Every day brings new challenges, bugs, and opportunities to dig deeper into how Linux works. Zraxyl is a never-ending project, one we will keep alive as technology evolves, continuously improving it and keeping it up to date with the latest advancements."
 
 				<article .block>
-					<h3> 'EVOLUTIONARY LINUX'
-					<h4>
-						<a[d:inline] target='_blank' href='https://evolinx.martinvlba.eu/'> ' Website '
-					<p> "It is another linux distro made from scratch by a friend Martin from Estonia and i am maintaining xfce for it"
-					<br>
 
 					<section .projects>
 						<h3> 'CATWALLPAPER'
-						<p> "It is my first python package which is can be found {<a[d:inline] href='https://pypi.org/project/catwallpaper/' > <strong> "here"}"
+						<p> "It is my first python package which can be found {<a[d:inline] href='https://pypi.org/project/catwallpaper/' > <strong> "here"}"
 						<br>
 						<p> "All what it does is web scrapes random cat images with using obviously python and seamlessly sets it as your wallpaper according to your specific operating system and desktop environment preferences"
 						<br>
@@ -103,13 +113,6 @@ tag app
 					<section .projects>
 						<h3> 'TERMUX-MINER'
 						<p> "It serves as a facilitative tool for effortlessly compiling and installing the xmrig miner on any Android device through Termux. It streamlines the otherwise intricate process of repurposing obsolete, seemingly insignificant devices into viable, low-end mining machines. It can be found {<a[d:inline] href='https://github.com/CyberSecByte/termux-miner'> <strong> "here"}"
-						<br>
-
-					<section .projects>
-						<h3> 'OPENSOURCED TELEGRAM BOT TEMPLATE BASED ON TELETHON AND PYROGRAM'
-						<p> "{<a[d:inline] href='https://pypi.org/project/Telethon/'> <strong> "Telethon"} and {<a[d:inline] href='https://pypi.org/project/Pyrogram/'> <strong> "Pyrogram"} are {<a[d:inline] href='https://core.telegram.org/mtproto'> "MTProto"} based framework to interact with main Telegram API through a user account (custom client) or a bot identity (bot API alternative) using Python."
-						<br>
-						<p> "You can find the opensourced repo under GNU General Public License v3.0 for telethon based bot base {<a[d:inline] href='https://github.com/turtlecommmunity/telethonbot-base'> " here"} and Pyrogram based {<a[d:inline] href='https://github.com/turtlecommmunity/pyrogrambot-base'> "here"} "
 						<br>
 
 					<section .projects>
@@ -125,6 +128,11 @@ tag app
 						<p> "This is my Cloudflare Argo Tunnel self-hosted uptime monitor, which tracks the uptime and downtime of various services or hosted items. It is available {<a[d:inline] href='https://status.cybersecbyte.tk/' > <strong> "here"} "
 						<br>
 
+					<section .projects>
+					<h3> 'MY OTHER CONTRIBUTIONS'
+					<p> "I actively contribute to various open-source projects and maintain several of my own. If you’re interested in exploring more of my work—including my open-source contributions and ongoing projects—feel free to check out my {<a[d:inline] href='https://github.com/cybersecbyte' > <strong> "Github"}"
+					<br>
+
 				<article .block>
 					<h2> "EDUCATION"
 					<h3> 'BACHELOR OF TECHNOLOGY (Btech)'
@@ -135,7 +143,7 @@ tag app
 			<p> "I reside in New Delhi, India, where my passions include coding, design, automation, as well as indulging in a diverse range of musical genres such as pop, heavy metal, and classical English music. Additionally, I derive immense joy from caring for both cats and dogs, exploring the wonders of nature, and immersing myself in the study of various religions, their traditions, and even their native languages. Simplicity governs my approach to life, and I am committed to practicing vegetarianism. I must attribute my lifestyle choices to the influential book Life is Fair by {<a[d:inline] href='https://en.wikipedia.org/wiki/Brian_Hines'> "Brian Hines"}. Furthermore, if you are curious about my religious affiliation, I identify as an omnist."
 
 		<footer .container>
-			"© 2023 {<a href='https://github.com/cybersecbyte'> "CYBERSECBYTE"} "
+			"© 2025 {<a href='https://github.com/cybersecbyte'> "CYBERSECBYTE"} "
 
 	css
 		.container
