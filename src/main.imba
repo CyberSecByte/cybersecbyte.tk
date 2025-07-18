@@ -79,7 +79,7 @@ tag app
 					<section .projects>
 						<h3> 'ZRAXYL LINUX'
 						<h4>
-							<img [d:inline size:1em] src="https://raw.githubusercontent.com/CyberSecByte/cybersecbyte.github.io/master/images/zraxyl.jpg">
+							<img [d:inline size:1em] src="https://raw.githubusercontent.com/CyberSecByte/cybersecbyte.tk/refs/heads/main/images/zraxyl.jpg">
 							<a[d:inline] target='_blank' href='https://zraxyl.eu'> ' Website |'
 							<a[d:inline] target='_blank' href='https://docs.zraxyl.eu'> ' Docs |'
 							<a[d:inline] target='_blank' href='https://t.me/zraxyl_distro'> ' Telegram Group |'
